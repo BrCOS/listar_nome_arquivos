@@ -19,7 +19,7 @@ Caso não queira usar, basta apagar a linha e identar a a próxima linha.
 
 ### Pastas de onde estão os arquivos a serem listados:
 ```http
-directory_folders = ['DIRECTORIES HERE']
+directory_folders = ['DIRECTORIES / FOLDERS HERE']
 ```
 
 Uma lista contento todas as pastas pode ser passada para essa variável.
